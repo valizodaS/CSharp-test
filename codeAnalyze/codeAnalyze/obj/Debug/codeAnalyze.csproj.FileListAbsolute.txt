@@ -1,0 +1,6 @@
+c:\users\sami\documents\visual studio 2013\Projects\codeAnalyze\codeAnalyze\bin\Debug\codeAnalyze.exe.config
+c:\users\sami\documents\visual studio 2013\Projects\codeAnalyze\codeAnalyze\bin\Debug\codeAnalyze.exe
+c:\users\sami\documents\visual studio 2013\Projects\codeAnalyze\codeAnalyze\bin\Debug\codeAnalyze.pdb
+c:\users\sami\documents\visual studio 2013\Projects\codeAnalyze\codeAnalyze\obj\Debug\codeAnalyze.csprojResolveAssemblyReference.cache
+c:\users\sami\documents\visual studio 2013\Projects\codeAnalyze\codeAnalyze\obj\Debug\codeAnalyze.exe
+c:\users\sami\documents\visual studio 2013\Projects\codeAnalyze\codeAnalyze\obj\Debug\codeAnalyze.pdb
